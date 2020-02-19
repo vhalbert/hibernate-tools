@@ -28,7 +28,7 @@
     
     <groupId>org.hibernate</groupId>
     <artifactId>hibernate-tools-parent</artifactId>
-    <version>5.4.13.Final-redhat-00002</version>
+    <version>5.4.12.Final</version>
 
     <packaging>pom</packaging>
  
