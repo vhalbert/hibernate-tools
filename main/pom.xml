@@ -15,12 +15,6 @@
 
 	<name>Hibernate Tools</name>
 	<description>Hibernate Tools</description>
-	<url>http://hibernate.org/tools/</url>
-
-	<organization>
-		<name>Hibernate</name>
-		<url>http://www.hibernate.org</url>
-	</organization>
 
 	<licenses>
 		<license>
@@ -28,21 +22,6 @@
 			<url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
 		</license>
 	</licenses>
-
-	<developers>
-		<developer>
-			<id>maxandersen</id>
-			<name>Max Andersen</name>
-			<email>max@hibernate.org</email>
-			<url>http://in.relation.to/Bloggers/Max</url>
-		</developer>
-		<developer>
-			<id>koentsje</id>
-			<name>Koen Aersn</name>
-			<email>koen@hibernate.org</email>
-			<url>http://koentsje.blogspot.be</url>
-		</developer>
-	</developers>
 
 	<dependencies>
 	    <dependency>

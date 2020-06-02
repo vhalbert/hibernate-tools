@@ -14,12 +14,6 @@
 
   <name>Hibernate Tools Maven Plugin</name>
   <description>Maven plugin to provide hibernate-tools reverse engineering and code/schema generation abilities.</description>
-  <url>https://hibernate.github.io/hibernate-tools/</url>
-
-  <organization>
-    <name>Hibernate</name>
-    <url>http://www.hibernate.org</url>
-  </organization>
 
   <licenses>
     <license>
@@ -27,14 +21,6 @@
       <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
     </license>
   </licenses>
-
-  <developers>
-    <developer>
-      <id>stadler</id>
-      <name>Jacques Stadler</name>
-      <email>jacques.stadler+github@gmail.com</email>
-    </developer>
-  </developers>
 
   <prerequisites>
     <maven>3.0</maven>

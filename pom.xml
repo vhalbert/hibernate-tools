@@ -37,7 +37,7 @@
     <modules>
         <module>main</module>
         <module>maven-plugin</module>
-        <module>test</module>
+        <!--module>test</module-->
     </modules>
 
     <properties>
